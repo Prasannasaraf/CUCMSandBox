@@ -1,0 +1,5 @@
+run.sh
+*.csv
+*.response
+.DS_Store
+.vscode
